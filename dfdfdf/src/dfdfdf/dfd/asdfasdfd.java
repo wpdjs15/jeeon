@@ -1,11 +1,10 @@
-package ssdd.ww;
+package dfdfdf.dfd;
 
-public class adads {
+public class asdfasdfd {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//ASDFADSFASDFSDF
-		
+
 	}
 
 }
